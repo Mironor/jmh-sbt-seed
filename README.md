@@ -9,9 +9,9 @@ This template simply includes the [sbt-jhm plugin](https://github.com/ktoso/sbt-
 Setup
 -----
 
-1. [Download Typesafe Activator](http://typesafe.com/platform/getstarted) (or copy it over from a USB)
-2. Extract the zip and run the `activator` or `activator.bat` script from a non-interactive shell
-3. Your browser should open to the Activator UI: [http://localhost:8888](http://localhost:8888)
+1. Install sbt
+2. Open sbt console in the project's folder
+3. Type jmh:run to run the benchmark
 
 Check the example benchmarks
 ----------------------------
